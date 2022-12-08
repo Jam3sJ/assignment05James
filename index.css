@@ -1,0 +1,165 @@
+*
+{
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: #36393F;
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+
+#wrapper
+{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	min-width: 960px;
+	max-width: 2048px;
+	
+}
+
+
+#banner
+{
+	overflow: auto;
+	height: 275px;
+	background-image: url(fire.jpg);
+	background-repeat: inherit;
+	background-size: 100% 100%;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+header:hover {color: #EB3A1E;}
+
+header
+{
+	color: #039be5;
+	letter-spacing: 4px;
+    	padding-bottom: 0;
+	margin: 0;
+  	padding-top: 20px;
+	text-align: center;
+}
+
+	nav a:link {text-decoration: none;}
+	nav a:link {color: #8aecff;}
+	nav a:visited {color: black;}
+	nav a:hover {color: EB3A1E;}
+	nav a:active {text-decoration: none;}
+nav
+{
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: relative; top: 0px;
+  padding: 0px;
+}
+
+main
+{
+	overflow: auto;
+	background-color: white !important;
+	margin-top: 0;
+   	padding-top: 0;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+bord
+{
+	border-width: 2px; 
+	border-style: solid; 
+	border-color: green; 
+	padding: 5px;
+ 	font-size: 20;
+}
+ski
+{
+	color: #FF6865;
+	text-decoration: underline;
+
+}
+lined
+{
+	text-decoration: underline;
+	color: #8B0000;
+}
+bolded
+{
+	font-weight: bold;
+	font-family: Arial;
+}
+
+important
+{
+	background-color: #FFFF00;
+	border-width: 2px; 
+	border-style: solid; 
+	border-color: black; 
+}
+
+important2
+{
+	background-color: #FFFF00;
+	font-weight: bold;
+}
+
+green
+{
+	background-color: #90EE90;
+	text-decoration: underline;
+}	
+
+James
+{
+	background-color: #abf7b1;
+	font-weight: bold;
+}
+	 	
+favorites
+{
+	background-color: #90EE90;
+	border-width: 2px; 
+	border-style: solid; 
+	border-color: black; 
+}
+
+boxed
+{		
+	background-color: #90EE90;
+	color: #039be5; 
+}
+	
+footer
+{
+	overflow: auto;
+	background-color: white;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;	
+}
+
+table
+{
+	border: 3px solid #000;
+	padding: 5px;
+}
+caption
+{
+	color: White; 
+	background-color: blue;
+}
+Submit
+{
+	float: right;
+	color: red;
+}
